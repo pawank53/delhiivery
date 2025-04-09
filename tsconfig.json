@@ -9,9 +9,9 @@
     }
   },
   "include": [
-    "**/*.ts",
-    "**/*.tsx",
-    ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "**/*.texpo/types/**/*.ts",
+    "expo-env.d.ts",
+    "context/AuthContext.js",
+    ".expo/types/**/*.ts"
   ]
 }
